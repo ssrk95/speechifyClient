@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/speechify-client/static/js/main.452ee91b.js",
+    "index.html": "/speechify-client/index.html",
+    "main.452ee91b.js.map": "/speechify-client/static/js/main.452ee91b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.452ee91b.js"
+  ]
+}
